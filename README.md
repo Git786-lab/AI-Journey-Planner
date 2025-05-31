@@ -51,6 +51,11 @@ AI Suggested Route:
 2. As you approach the Semanggi area, make a stop at Plaza Semanggi to grab a quick breakfast.
 3. Continue on to the Kuningan Business District. 
 
+## 🧠 Architecture Diagram
+
+![Architecture Diagram](https://raw.githubusercontent.com/Git786-lab/AI-Journey-Planner/refs/heads/main/ChatGPT%20Image%20May%2030%2C%202025%2C%2008_13_53%20PM.png)
+
+
 💰 Estimated Monthly Costs
 Service	Estimate
 OpenAI API	~$5–$20 (based on usage)
